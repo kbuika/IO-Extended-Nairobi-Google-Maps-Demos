@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Urban Eatery",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPQp6pA6AAC8gFXVQDZjTU0Bqchom8oPkZfNRn9=w408-h271-k-no",
+        "geoLocation": {
+            "lat": -1.27631,
+            "lng": 36.7563866
+        },
+        "id": 1,
+        "address": "PwC Tower, Ground Floor Delta Corner Estate, Chiromo Rd, Nairobi"
+        
+    },
+    {
+        "name": "Inca Restaurant",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNrVX88GCrkwH79rmqbGBIyuzDO5V68yFtPAwbe=w408-h272-k-no",
+        "id": 2,
+        "geoLocation": {
+            "lat": -1.2807501,
+            "lng": 36.7351461
+        },
+        "address": "154 James Gichuru Road The Social House Nairobi, 154 James Gichuru Road, Nairobi"
+    },
+    {
+        "name": "Ankole Grill",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOCFAFLpNvXjT8xcmWwWftiadEz_FwDXMTDS-8n=w408-h269-k-no",
+        "id": 3,
+        "geoLocation": {
+            "lat": -1.2644551,
+            "lng": 36.7681172
+        },
+        "address": "Galana Rd, Nairobi"
+    },
+    {
+        "name": "254 Brewing",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOU-VRQrUMf9vuveXdpIM3lR9DLN_zSjAIg6emZ=w426-h240-k-no",
+        "id": 4,
+        "getLocation": {
+            "lat": -1.2347018,
+            "lng": 36.6593292
+        },
+        "address": "Kikuyu - Nderi Road, Kikuyu"
+    }
+]
